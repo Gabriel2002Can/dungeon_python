@@ -1,0 +1,51 @@
+Monster,Attack,Hit Damage Points
+Elf,General Annoyance,10
+Necromancer,Truly Nasty Kick,45
+Dragon,Fire Breath,100
+Goblin,Mischievous Poke,15
+Troll,Heavy Club Smash,30
+Vampire,Life Drain,25
+Werewolf,Feral Bite,35
+Zombie,Relentless Grab,20
+Ghost,Eerie Wail,5
+Witch,Hex Cast,40
+Golem,Stone Throw,50
+Harpy,Screeching Dive,18
+Minotaur,Maze Charge,60
+Siren,Seductive Lure,22
+Mummy,Ancient Curse,28
+Kraken,Tentacle Whip,80
+Cyclops,Monstrous Stomp,70
+Banshee,Wailing Doom,33
+Griffin,Majestic Claw,38
+Hydra,Multi-Head Strike,90
+Sphinx,Riddle Confusion,42
+Chimera,Chaotic Rampage,55
+Succubus,Charm Spell,27
+Lich,Deathly Touch,65
+Ghoul,Ghastly Bite,12
+Sprite,Sparkle Blast,3
+Djinn,Magic Vortex,75
+Basilisk,Petrifying Gaze,85
+Kappa,Water Pull,17
+Yeti,Icy Roar,48
+Phoenix,Rebirth Flame,95
+Cerberus,Hellhound's Fury,58
+Mermaid,Enchanting Song,23
+Ogre,Brutal Pound,65
+Imp,Annoying Prank,1
+Brownie,Stealthy Theft,8
+Salamander,Fire Lash,13
+Nymph,Healing Touch,21
+Centaur,Arrow Barrage,34
+Faun,Pan's Flute,7
+Pixie,Dust Sprinkle,2
+Leprechaun,Misfortune,6
+Satyr,Wild Dance,19
+Dryad,Branch Whip,26
+Medusa,Gaze of Stone,44
+Pegasus,Wind Gust,29
+Unicorn,Horn Charge,37
+Changeling,Shape Shift,11
+Will-o'-the-Wisp,Guiding Light,4
+Bogeyman,Night Terror,9
